@@ -311,6 +311,11 @@ a:hover {
 .space {
   height: 96px;
 }
+@media (max-width: 550px) {
+  .space {
+    height: 64px;
+  }
+}
 .half-space {
   height: 46px;
 }
